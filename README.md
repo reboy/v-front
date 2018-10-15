@@ -19,7 +19,7 @@ $ npm start
 $ npm run generate
 
 # UI插件
-vant
+vant  https://youzan.github.io/vant/#/zh-CN/intro
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
